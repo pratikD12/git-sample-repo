@@ -2,4 +2,8 @@ git init- to create a .git file
 git status- print teh statusof the git repostory
 
 
+
 git simple filer
+
+private branch2
+
